@@ -38,7 +38,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/view/silent-tears-crying-sad-gif-6094673535507619605"  />
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjA2aGJkcWFwZTY0Y2x6cWhtNG1nYWFxaWV0eXd1dmczNWg1Z2JwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
 
