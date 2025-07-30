@@ -22,12 +22,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
 <h1 align="center">What's up guy 👋</h1>
 
 ###
@@ -44,7 +38,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://tenor.com/view/silent-tears-crying-sad-gif-6094673535507619605"  />
 
 ###
 
