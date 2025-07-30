@@ -22,13 +22,13 @@
 <!-- Full+Stack+Developer+%7C+AI+Explorer;Building+Next-Gen+Web+Applications -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Baoduy57&color=9D00FF)
 
----
+
 
 ## <h3 align="left">👩‍💻  About Me</h3>
 
 <p align="left">My name is ThauDuy and I'm a Software Engineer<br>- 📚 I'm currently learning FPT University<br>- ⚡ In my spare time, I usually sleep and code</p>
 
----
+
 
  ## <h3 align="left">🛠 Language and tools</h3>
 <div align="center">
@@ -54,7 +54,7 @@
   <img width="12" />
 </div>
 
----
+
 
 ## 🔥 GitHub Stats 🔥 
 <p align="center">
@@ -62,7 +62,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baoduy57&layout=compact&theme=radical" />
 </p>
 
----
+
 
 
 
