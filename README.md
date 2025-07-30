@@ -70,6 +70,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baoduy57&layout=compact&theme=radical" />
 </p>
 
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Baoduy57&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy) 
+
+
 ###
 
 
