@@ -22,7 +22,9 @@
 
 ###
 
-<h1 align="center">What's up guy 👋</h1>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&pause=1000&color=00FFF0&vCenter=true&width=800&lines=What's+up+guy%2C+I'm+Lộc+%F0%9F%91%8B;)
+<!-- Full+Stack+Developer+%7C+AI+Explorer;Building+Next-Gen+Web+Applications -->
+![Profile Views](https://komarev.com/ghpvc/?username=Baoduy57&color=9D00FF)
 
 ###
 
