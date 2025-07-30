@@ -2,7 +2,7 @@
   <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjA2aGJkcWFwZTY0Y2x6cWhtNG1nYWFxaWV0eXd1dmczNWg1Z2JwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 </div>
 
-###
+
 
 <div align="center">
   <a href="https://www.facebook.com/duybaothai5724/" target="_blank">
@@ -20,26 +20,25 @@
 </div>
 
 
-###
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&pause=1000&color=00FFF0&vCenter=true&width=800&lines=What's+up+guy%2C+I'm+ThauDuy+%F0%9F%91%8B;)
 <!-- Full+Stack+Developer+%7C+AI+Explorer;Building+Next-Gen+Web+Applications -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Baoduy57&color=9D00FF)
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+## <h3 align="left">👩‍💻  About Me</h3>
 
-###
+
 
 <p align="left">My name is ThauDuy and I'm a Software Engineer<br>- 📚 I'm currently learning FPT University<br>- ⚡ In my spare time, I usually sleep and code</p>
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
+ ## <h3 align="left">🛠 Language and tools</h3>
 
 
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
@@ -64,16 +63,16 @@
   <img width="12" />
 </div>
 
-### 🔥 GitHub Stats 🔥 
+---
+
+## 🔥 GitHub Stats 🔥 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Baoduy57&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baoduy57&layout=compact&theme=radical" />
 </p>
 
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Baoduy57&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy) 
+---
 
 
 ###
