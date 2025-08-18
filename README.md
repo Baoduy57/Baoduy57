@@ -62,7 +62,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baoduy57&layout=compact&theme=radical" />
 </p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Baoduy57&theme=tokyonight&hide_border=false)<br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Baoduy57&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+</p>
+
 
 ---
 
