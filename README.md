@@ -58,8 +58,8 @@
 
  <h3 align="left">🔥 GitHub Stats 🔥</h3>
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baoduy57&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="150"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=baoduy57&theme=dark&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=baoduy57&theme=light&hide_border=false&include_all_commits=true&count_private=false" height="150"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=baoduy57&theme=light&hide_border=false" height="150"/>
 </p>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baoduy57&layout=compact&theme=radical" />
