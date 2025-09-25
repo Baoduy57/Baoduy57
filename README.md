@@ -63,8 +63,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baoduy57&layout=compact&theme=radical" />
 </p>
 
-
 ---
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=baoduy57&limit=3&theme=dark&combine_all_yearly_contributions=true"/>
+</p>
 
 
 
