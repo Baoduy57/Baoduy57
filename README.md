@@ -29,7 +29,7 @@
 <p align="left">My name is ThauDuy and I'm a Software Engineer<br>- 📚 I'm currently learning FPT University<br>- ⚡ In my spare time, I usually sleep and code</p>
 
 ---
-<!--
+
   <h3 align="left">🛠 Language and tools</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
@@ -53,7 +53,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
 </div>
--->
+
 ---
 
  <h3 align="left">🔥 GitHub Stats 🔥</h3>
