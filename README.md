@@ -31,28 +31,16 @@
 ---
 
   <h3 align="left">🛠 Language and tools</h3>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-</div>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,vue,java,c,mongodb,vercel,gcp,tailwind,express,git,github,gitlab,docker" />
+  </p>
+
+---
+
+<!-- Hiệu ứng graph động (activity) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baoduy57&bg_color=1a1b27&color=27e8a7&line=22d3ee&point=27e8a7&hide_border=true" />
+</p>
 
 ---
 
@@ -62,13 +50,13 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=baoduy57&theme=dark&hide_border=false" height="150"/>
 </p>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baoduy57&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baoduy57&layout=compact&theme=radical" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=baoduy57&limit=3&theme=dark&combine_all_yearly_contributions=true"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=baoduy57&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </p>
 
 
