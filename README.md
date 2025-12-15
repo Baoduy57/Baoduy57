@@ -46,8 +46,8 @@
 
  <h3 align="left">🔥 GitHub Stats 🔥</h3>
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baoduy57&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="150"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=baoduy57&theme=dark&hide_border=false" height="150"/>
+ <img height="150" src="https://github-readme-stats.vercel.app/api?username=baoduy57&show_icons=true&theme=radical" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=baoduy57&theme=radical&hide_border=false" height="150"/>
 </p>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baoduy57&layout=compact&theme=radical" />
@@ -56,7 +56,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=baoduy57&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=baoduy57&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
 </p>
 
 
