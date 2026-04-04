@@ -55,7 +55,7 @@
   <img src="https://github-readme-stats-chi-lake-16.vercel.app/api/top-langs/?username=baoduy57&count_private=true&include_all_commits=true&langs_count=10&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=c084fc&text_color=ffffff&layout=compact&border_radius=15&cache_seconds=10"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=baoduy57&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&border_radius=15"/>
+  <img src="https://streak-stats.demolab.com?user=baoduy57&theme=github-dark&hide_border=true&background=0D1117&ring=a855f7&fire=c084fc&currStreakLabel=e9d5ff&sideLabels=c084fc&dates=ffffff&border_radius=15"/>
 </p>
 
 <!-- Footer -->
