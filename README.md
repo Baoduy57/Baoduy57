@@ -58,12 +58,6 @@
   <img src="https://streak-stats.demolab.com?user=baoduy57&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&border_radius=15"/>
 </p>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,19,24,30&height=2&section=header"/>
-</div>
-
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1a3a5c,100:0d1117&height=100&section=footer"/>
