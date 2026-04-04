@@ -44,7 +44,7 @@
 
 <!-- Hiệu ứng graph động (activity) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baoduy57&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&radius=16"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baoduy57&bg_color=0d1117&color=a855f7&line=9333ea&point=c084fc&area=true&hide_border=true&radius=16"/>
 </p>
 
 ---
