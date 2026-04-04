@@ -35,21 +35,27 @@
 
 <p align="left">My name is ThauDuy and I'm a Software Engineer<br>- 📚 I'm currently learning FPT University<br>- ⚡ In my spare time, I usually sleep and code</p>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,25,30,35,40&height=2&section=header"/>
+</div>
 
   <h3 align="left">🛠 Language and tools</h3>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,vue,java,c,mongodb,vercel,gcp,tailwind,express,git,github,gitlab,docker" />
   </p>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,25,30,35,40&height=2&section=header"/>
+</div>
 
 <!-- Hiệu ứng graph động (activity) -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=baoduy57&bg_color=0d1117&color=a855f7&line=9333ea&point=c084fc&area=true&hide_border=true&radius=16"/>
 </p>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,25,30,35,40&height=2&section=header"/>
+</div>
 
  <h3 align="left">🔥 GitHub Stats 🔥</h3>
  <p align="center">
