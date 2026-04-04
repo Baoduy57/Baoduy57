@@ -1,3 +1,8 @@
+<!-- Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58a6ff&height=120&section=header"/>
+</div>
+
 <div align="center">
   <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjA2aGJkcWFwZTY0Y2x6cWhtNG1nYWFxaWV0eXd1dmczNWg1Z2JwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 </div>
@@ -55,9 +60,14 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=baoduy57&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,19,24,30&height=2&section=header"/>
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1a3a5c,100:0d1117&height=100&section=footer"/>
+</div>
 
 
 
