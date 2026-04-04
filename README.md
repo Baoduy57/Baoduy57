@@ -27,7 +27,9 @@
 <!-- Full+Stack+Developer+%7C+AI+Explorer;Building+Next-Gen+Web+Applications -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Baoduy57&color=9D00FF)
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,25,30,35,40&height=2&section=header"/>
+</div>
 
  <h3 align="left">👩‍💻  About Me</h3>
 
