@@ -50,7 +50,7 @@
 
 <!-- Hiệu ứng graph động (activity) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baoduy57&bg_color=0d1117&color=a855f7&line=9333ea&point=c084fc&area=true&hide_border=true&radius=16"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baoduy57&bg_color=0d1117&color=a855f7&line=9333ea&point=c084fc&area=true&hide_border=true&radius=16"/>
 </p>
 
 <div align="center">
@@ -59,11 +59,11 @@
 
  <h3 align="left">🔥 GitHub Stats 🔥</h3>
  <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=baoduy57&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=a855f7&title_color=c084fc&text_color=ffffff&border_radius=15" height="150"/>
-  <img src="https://github-readme-stats-chi-lake-16.vercel.app/api/top-langs/?username=baoduy57&count_private=true&include_all_commits=true&langs_count=10&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=c084fc&text_color=ffffff&layout=compact&border_radius=15&cache_seconds=10"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Baoduy57&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=a855f7&title_color=c084fc&text_color=ffffff&border_radius=15" height="150"/>
+  <img src="https://github-readme-stats-chi-lake-16.vercel.app/api/top-langs/?username=Baoduy57&count_private=true&include_all_commits=true&langs_count=10&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=c084fc&text_color=ffffff&layout=compact&border_radius=15&cache_seconds=10"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=baoduy57&theme=github-dark&hide_border=true&background=0D1117&ring=a855f7&fire=c084fc&currStreakLabel=e9d5ff&sideLabels=c084fc&dates=ffffff&border_radius=15"/>
+  <img src="https://streak-stats.demolab.com?user=Baoduy57&theme=github-dark&hide_border=true&background=0D1117&ring=a855f7&fire=c084fc&currStreakLabel=e9d5ff&sideLabels=c084fc&dates=ffffff&border_radius=15"/>
 </p>
 
 <!-- Footer -->
