@@ -47,10 +47,10 @@
  <h3 align="left">🔥 GitHub Stats 🔥</h3>
  <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=baoduy57&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=58a6ff&title_color=58a6ff&text_color=ffffff&border_radius=15" height="150"/>
-  <img   src="https://github-readme-stats-chi-lake-16.vercel.app/api/top-langs/?username=baoduy57&count_private=true&include_all_commits=true&langs_count=10&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=ffffff&layout=compact&border_radius=15&cache_seconds=10"/>
+  <img src="https://github-readme-stats-chi-lake-16.vercel.app/api/top-langs/?username=baoduy57&count_private=true&include_all_commits=true&langs_count=10&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=ffffff&layout=compact&border_radius=15&cache_seconds=10"/>
 </p>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baoduy57&layout=compact&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=baoduy57&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&border_radius=15"/>
 </p>
 
 ---
