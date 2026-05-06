@@ -64,7 +64,6 @@
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Baoduy57&theme=github-dark&hide_border=true&background=0D1117&ring=a855f7&fire=c084fc&currStreakLabel=e9d5ff&sideLabels=c084fc&dates=ffffff&border_radius=15"/>
-<img src="https://streak-stats.demolab.com?user=Baoduy57&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&border_radius=15"/>
 </p>
 
 <!-- Footer -->
