@@ -11,7 +11,7 @@
   <a href="https://www.facebook.com/duybaothai5724/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
   </a>
-  <a href="https://www.youtube.com/@duytb57" target="_blank">
+  <a href="https://www.youtube.com/@G-U-T-S-57" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
   </a>
   <a href="https://www.instagram.com/tb_yud/" target="_blank">
@@ -64,6 +64,7 @@
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Baoduy57&theme=github-dark&hide_border=true&background=0D1117&ring=a855f7&fire=c084fc&currStreakLabel=e9d5ff&sideLabels=c084fc&dates=ffffff&border_radius=15"/>
+<img src="https://streak-stats.demolab.com?user=Baoduy57&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&border_radius=15"/>
 </p>
 
 <!-- Footer -->
